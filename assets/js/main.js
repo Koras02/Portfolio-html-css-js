@@ -78,6 +78,8 @@ tabs.forEach(tab => {
 
         tab.classList.add('qualification__active');
     })
+
+    console.log("asds")
 })
 
 
